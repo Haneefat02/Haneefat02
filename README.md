@@ -14,5 +14,6 @@ Python for data aalytics
 - 🌱 I’m currently learning programming using python
 
  ##📫 contact address:
-email- babatundehaneefat@gmail.com
+email - babatundehaneefat@gmail.com
 Linkedin - https://www.linkedin.com/in/haneefatbabatunde
+kaggle - https://www.kaggle.com/haneefatbabatunde
